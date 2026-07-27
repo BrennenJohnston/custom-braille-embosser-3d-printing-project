@@ -1,0 +1,36 @@
+# Local-only: copy of the OpenAT template kept for reference, not published.
+_template_reference/
+
+# ---------------------------------------------------------------------------
+# Oversized media: kept locally, not published to git
+# ---------------------------------------------------------------------------
+# The three tutorial recordings are 368-705 MB each. GitHub hard-rejects any
+# single file over 100 MB, and Git LFS's free tier is 1 GB total, so mirroring
+# 1.5 GB of video here would cost money and make every clone enormous. All
+# three are already published on YouTube (linked from README.md and from
+# Video_Tutorials/README.md), which is where viewers actually watch them.
+#
+# What IS published: the .srt subtitle files, the step-by-step screenshots, the
+# transcript-derived written walkthrough, and the video index. Someone with no
+# internet access still gets the full procedure in text and images.
+Video_Tutorials/**/*.mp4
+Video_Tutorials/**/*.avi
+Video_Tutorials/**/*.mov
+
+# ---------------------------------------------------------------------------
+# Redundant CAD copies: Design_Files/CAD_Design_Files/ is the published tree
+# ---------------------------------------------------------------------------
+# Braille_Embosser_CAD_Design_Files/ is a byte-identical copy of
+# CAD_Design_Files/ plus a zip of the Fusion archive it already contains, and
+# Braille_Embosser_CAD_Design_Files.zip is a zip of that. Publishing all three
+# would add ~266 MB of duplicates to every clone. The local copies stay put.
+Design_Files/Braille_Embosser_CAD_Design_Files/
+Design_Files/Braille_Embosser_CAD_Design_Files.zip
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store
+*.swp
+*~
+.vscode/
+.idea/

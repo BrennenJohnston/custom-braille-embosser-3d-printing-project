@@ -1,0 +1,55 @@
+Device:,Custom Braille Embosser,,,,,,,,,,,,
+Version:,V1.0.0,,,,,,,,,,,,
+Last Updated:,2026-05-31,,,,,,,,,,,,
+,,,,,,,,Total filament (g),,Unit Cost,Total Estimated Cost,Build Cost,
+,,,,,,,,293.49 (268.81 device + 24.68 plate pair),,$0.00,$7.34 (268.81 g + 24.68 g at $25/kg),,
+ID,Commercial Parts,,,,,,,,,$0.00,$0.00,,
+,Part,Description,,Manufacturer,Supplier,QTY / Device,QTY / PKG,PKGs,$ / PKG,$ / Device,Total Estimated Cost,,Link
+,(none),This device has no off-the-shelf electronic components or fasteners.,,,,0,0,0,$0.00,$0.00,$0.00,,
+,,,,,,,,,,,,,
+,3D Printed Parts,,,,,,,268.81 (assembly profile total),,$6.72,$6.72,,
+,Part,Description,Filament Type,Filament,Color,QTY / Device,Mass (g) / Part,Total Mass,$ / kg,$ / Device,Total Estimated Cost,,Link
+P01,Body Base,Lower half of the embosser body. Holds the Embosser Holder pair.,PLA or PETG,Any,Any,1,TBD,TBD,$25.00,TBD,TBD,,
+P02,Body Top,Upper half of the embosser body. Holds the Counter Holder pair.,PLA or PETG,Any,Any,1,TBD,TBD,$25.00,TBD,TBD,,
+P03,Embosser Holder A1,First half of the snap-fit holder for the Embossing Plate (cylindrical).,PLA or PETG,Any,Any,1,TBD,TBD,$25.00,TBD,TBD,,
+P04,Embosser Holder A2,Second half of the snap-fit holder for the Embossing Plate.,PLA or PETG,Any,Any,1,TBD,TBD,$25.00,TBD,TBD,,
+P05,Counter Holder B1,First half of the snap-fit holder for the Universal Counter Plate.,PLA or PETG,Any,Any,1,TBD,TBD,$25.00,TBD,TBD,,
+P06,Counter Holder B2,Second half of the snap-fit holder for the Universal Counter Plate.,PLA or PETG,Any,Any,1,TBD,TBD,$25.00,TBD,TBD,,
+P07,Grip Extension Bottom,Lower half of the user-side grip extension.,PLA or PETG,Any,Any,1,TBD,TBD,$25.00,TBD,TBD,,
+P08,Grip Extension Top,Upper half of the user-side grip extension.,PLA or PETG,Any,Any,1,TBD,TBD,$25.00,TBD,TBD,,
+P09,Handle Connector,Connects the Handle Grip to the Body for leverage.,PLA or PETG,Any,Any,1,TBD,TBD,$25.00,TBD,TBD,,
+P10,Handle Grip,Outer sleeve the user squeezes when embossing.,PLA or PETG,Any,Any,1,TBD,TBD,$25.00,TBD,TBD,,
+,,,,,,,,,,,,,
+,Embossing & Counter Plates (printed separately),,,,,,,24.68 (HQ cylinder pair total),,$0.62,$0.62,,
+,Part,Description,Filament Type,Filament,Color,QTY / Device,Mass (g) / Part,Total Mass,$ / kg,$ / Device,Total Estimated Cost,,Link
+P11,Embossing Plate,"Cylindrical plate with raised braille dots; generated from text. PRIMARY: web-based customizer https://braille-card-and-cylinder-stl-gener.vercel.app . ALTERNATIVE (offline): vendored OpenSCAD copy in Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative/ . See also Examples folder for pre-generated plates.",PLA or PETG,Any,Any,1,TBD,TBD,$25.00,TBD,TBD,,https://braille-card-and-cylinder-stl-gener.vercel.app
+P12,Universal Counter Plate,"Cylindrical plate with matching cavities; matched to card-stock thickness (0.3 or 0.4 mm). Generated from the same customizer as P11.",PLA or PETG,Any,Any,1,TBD,TBD,$25.00,TBD,TBD,,https://braille-card-and-cylinder-stl-gener.vercel.app
+,,,,,,,,,,,,,
+,Custom PCB,,,,,,,,,$0.00,$0.00,,
+,Part,Description,,Manufacturer,Supplier,QTY / Device,QTY / PKG,PKGs,$ / PKG,$ / Device,Total Estimated Cost,,Link
+,(none),No PCB or electronics in this device.,,,,0,0,0,$0.00,$0.00,$0.00,,
+,,,,,,,,,,,,,
+,Consumables,,,,,,,,,,,,
+,Part,Description,,Manufacturer,Supplier,QTY / Device,QTY / PKG,PKGs,$ / PKG,$ / Device,Total Estimated Cost,,Link
+C01,Card stock 0.3 mm,"Standard 0.3 mm (~110-130 lb / ~250-300 gsm) card stock for embossing.",,Any office-supply / craft store,Any,1 sheet,100,1,$15.00,$0.15,$15.00,,
+C02,Card stock 0.4 mm,"Heavier 0.4 mm (~150 lb / ~350 gsm) card stock for deeper, more durable braille.",,Any office-supply / craft store,Any,1 sheet,100,1,$20.00,$0.20,$20.00,,
+,,,,,,,,,,,,,
+,Tools,,,,,,,,,,,,
+,Tool,Description,,Manufacturer,Supplier,,,,,,,,Link
+T01,FDM 3D printer,"Bambu Lab X1C recommended (sliced .3mf provided); any FDM printer with build volume >= 220 x 220 x 200 mm will work.",,Bambu Lab (or any),Any,,,,,,,,
+T02,Slicer,Bambu Studio (recommended) or any slicer that can import STL.,,Bambu Lab / OrcaSlicer,Any,,,,,,,,
+T03,Deburring tool / hobby knife,Optional - to clean any seam lines before assembly.,,Any,Any,,,,,,,,
+T04,Soft cloth,For cleaning the plates after embossing.,,Any,Any,,,,,,,,
+,,,,,,,,,,,,,
+,PPE,,,,,,,,,,,,
+,Item,Description,,Manufacturer,Supplier,,,,,,,,Link
+,Safety glasses,Recommended when removing parts from the printer build plate.,,Any,Any,,,,,,,,
+,,,,,,,,,,,,,
+,Alternatives,,,,,,,,,,,,
+,Part,Description,,Manufacturer,Supplier,QTY / Device,QTY / PKG,PKGs,$ / PKG,$ / Device,Total Estimated Cost,,Link
+A01,Rubber feet (optional),Stick-on rubber feet on the bottom of the Body Base for desk grip.,,Any,Any,4,8,1,$5.00,$2.50,$5.00,,
+A02,PETG instead of PLA,"PETG gives a slight increase in toughness; either material works.",,Any,Any,1,1,1,$30.00,$30.00,$30.00,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

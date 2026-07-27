@@ -1,0 +1,23 @@
+Version 1.0.0 | 2026-May-31
+ - Initial public release of the Custom Braille Embosser.
+ - 10 fully 3D-printed parts: Body Base, Body Top, Embosser Holder A1/A2, Counter Holder B1/B2, Grip Extension Bottom/Top, Handle Connector, Handle Grip.
+ - No off-the-shelf parts, no fasteners, no springs, no glue: snap-fit assembly only.
+ - Designed in Autodesk Fusion 360; source `.f3z`, neutral `.step`, and `.obj`+`.mtl` exports included.
+ - Sliced print profiles provided for Bambu Lab X1C: `Braille Embosser Assembly v1.0 (0.2 Layer Height).3mf` (all 10 device parts; 0.2 mm layer height) and `Embossing and Counter Cylinder High Quality.3mf` (cylinder pair only; 0.12 mm layer height with Arachne walls).
+ - Compatible with cylindrical embossing-plate / counter-plate pairs produced by the companion projects `braille-cylinder-stl-generator` (web-based, primary) and `braille-cylinder-stl-generator-openscad` (OpenSCAD, alternative).
+ - Two officially supported customizer paths:
+   - PRIMARY - Web-based customizer (recommended for most users): https://braille-card-and-cylinder-stl-gener.vercel.app
+     auto-translates English to Grade 1 / Grade 2 braille across 50+ language tables; STL generation runs entirely in your browser; no install.
+   - ALTERNATIVE - OpenSCAD offline customizer (vendored locally for offline use):
+     `Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative/`
+     copy of `braille-cylinder-stl-generator-openscad` v2.2.1 (2026-05-30); PolyForm Noncommercial 1.0.0.
+ - Verified for 0.3 mm and 0.4 mm card stock; example plate pairs included for both thicknesses in `Build_Files/3D_Printing_Files/Embossing_Plates_Examples/`.
+ - Three video tutorials: (1) generating and printing custom plates, (2) assembling the device, (3) operating the completed device. Hosted on YouTube; the .mp4 files are too large for git (368-705 MB each, past GitHub's 100 MB limit), so `Video_Tutorials/` publishes the .srt captions, the per-step assembly screenshots, and a transcript-derived written walkthrough instead:
+   - Video 1: https://youtu.be/m71VNZq28MI
+   - Video 2: https://youtu.be/x-uPNtT2Gqk
+   - Video 3: https://youtu.be/77iXvJbkXh4
+ - Documentation: README, OKH manifest, Bill of Materials, Maker Guide, User Guide, Quickstart Guide, Summary, Design Rationale.
+
+
+
+

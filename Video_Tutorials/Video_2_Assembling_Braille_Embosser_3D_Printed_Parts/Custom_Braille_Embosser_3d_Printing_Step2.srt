@@ -1,0 +1,376 @@
+﻿1
+00:00:00,000 --> 00:00:03,403
+In this video, we're going to assemble
+the 3D printed Braille embosser.
+
+2
+00:00:09,576 --> 00:00:11,311
+Once everything has been fully
+
+3
+00:00:11,311 --> 00:00:14,814
+3D printed, organize all of the parts
+so that you can identify them.
+
+4
+00:00:15,115 --> 00:00:18,418
+The embossing cylinder has raised
+braille dots on the surface.
+
+5
+00:00:19,652 --> 00:00:22,555
+The counter cylinder
+is the one with recessed dots.
+
+6
+00:00:22,555 --> 00:00:25,792
+Next, you have two different rollers
+for the cylinders
+
+7
+00:00:26,893 --> 00:00:29,896
+One holder has a plus sign.
+
+8
+00:00:30,463 --> 00:00:33,133
+The other has a minus sign.
+
+9
+00:00:33,133 --> 00:00:36,636
+The holder with the plus
+sign is used with the embossing cylinder.
+
+10
+00:00:37,170 --> 00:00:40,340
+The holder with the minus
+sign is used with the counter cylinder.
+
+11
+00:00:40,940 --> 00:00:41,508
+I recommend
+
+12
+00:00:41,508 --> 00:00:44,577
+sorting these into two separate groups,
+so you don't get the mixed up.
+
+13
+00:00:44,811 --> 00:00:49,449
+Next, Slide, the plus sign holder,
+into the embossing cylinder.
+
+14
+00:00:49,549 --> 00:00:51,317
+To help guide you through this process,
+
+15
+00:00:51,317 --> 00:00:54,320
+make sure that you line up
+all of the triangle indicators.
+
+16
+00:00:54,421 --> 00:00:59,092
+Every holder has a top triangle, Three
+side triangles and a bottom triangle.
+
+17
+00:01:00,994 --> 00:01:02,395
+I recommend testing the fit
+
+18
+00:01:02,395 --> 00:01:05,398
+by sliding the cylinder on only partway.
+
+19
+00:01:06,433 --> 00:01:09,669
+The cylinder should go onto the holder,
+without too much resistance.
+
+20
+00:01:09,869 --> 00:01:12,305
+It shouldn't be too tight or too loose.
+
+21
+00:01:12,305 --> 00:01:14,607
+If it feels too tight
+and you might not be able to pull it
+
+22
+00:01:14,607 --> 00:01:17,610
+back out, a little bit of sanding
+might be needed.
+
+23
+00:01:18,545 --> 00:01:21,915
+The fit seems right, so I’ll go ahead
+and complete the assembly.
+
+24
+00:01:22,382 --> 00:01:25,785
+All of the indicator triangles on the side
+should be pointing to the right.
+
+25
+00:01:27,287 --> 00:01:30,290
+Next, make sure that you're using
+the minus sign holder.
+
+26
+00:01:31,591 --> 00:01:35,128
+Make sure that the holder triangles
+are facing the same direction
+
+27
+00:01:35,128 --> 00:01:38,131
+as the cylinder triangles.
+
+28
+00:01:40,200 --> 00:01:41,167
+This time,
+
+29
+00:01:41,167 --> 00:01:44,170
+the triangle should be facing to the left.
+
+30
+00:01:45,972 --> 00:01:48,708
+When we bring these two cylinders
+together, the indicator
+
+31
+00:01:48,708 --> 00:01:52,846
+triangles on the top and the bottom
+should be pointed directly at each other.
+
+32
+00:01:53,079 --> 00:01:55,815
+And the indicator triangles on the sides
+should mirror each other.
+
+33
+00:01:55,815 --> 00:01:58,384
+The embossing cylinder’s triangles
+pointing to the right
+
+34
+00:01:58,384 --> 00:02:00,620
+and the counter
+cylinder’s triangles pointing to the left.
+
+35
+00:02:01,888 --> 00:02:02,155
+If you
+
+36
+00:02:02,155 --> 00:02:05,158
+line it all up, the gears should interlock
+seamlessly.
+
+37
+00:02:06,025 --> 00:02:08,895
+Before moving on,
+if you're using the optional grip
+
+38
+00:02:08,895 --> 00:02:11,898
+extension,
+it'll need to be installed next.
+
+39
+00:02:12,398 --> 00:02:15,401
+The grip comes in two pieces;
+a top piece and a bottom piece.
+
+40
+00:02:15,969 --> 00:02:18,538
+I'll start by placing the top piece
+
+41
+00:02:18,538 --> 00:02:21,608
+over the top of the base,
+and then sliding it all the way down.
+
+42
+00:02:22,175 --> 00:02:25,845
+Then set the bottom piece down
+on a solid surface,
+
+43
+00:02:26,179 --> 00:02:29,082
+and line up the top piece
+and the base over it.
+
+44
+00:02:29,082 --> 00:02:32,085
+It does take a little bit of effort,
+but it should click in place.
+
+45
+00:02:33,753 --> 00:02:36,890
+Once the extended grip is in place,
+we can move on to the next steps.
+
+46
+00:02:37,657 --> 00:02:40,393
+Before installing the rollers,
+I recommend testing
+
+47
+00:02:40,393 --> 00:02:44,197
+the fit of the lid, just to make sure that
+it goes on and off cleanly.
+
+48
+00:02:45,532 --> 00:02:48,334
+If it's too difficult to remove by hand,
+I recommend,
+
+49
+00:02:48,334 --> 00:02:52,071
+placing the lip of the lid
+against a solid surface and pulling down.
+
+50
+00:02:52,172 --> 00:02:55,175
+This should give you leverage
+to pop it off without too much effort.
+
+51
+00:02:55,175 --> 00:02:58,511
+If the lid passes the check, we'll
+go ahead and move on to the next step.
+
+52
+00:02:59,445 --> 00:03:02,282
+This is the technique that works
+best for me.
+
+53
+00:03:02,282 --> 00:03:05,818
+I place both cylinders in my hand,
+with my palm pointing up.
+
+54
+00:03:07,086 --> 00:03:10,356
+I make sure that they're aligned correctly
+and then hold the bottom in place
+
+55
+00:03:10,356 --> 00:03:11,891
+with my fingers.
+
+56
+00:03:11,891 --> 00:03:15,528
+Then, I grab the embosser base
+with my other hand And double check
+
+57
+00:03:15,528 --> 00:03:18,531
+that the plus sign is going in
+to the left side,
+
+58
+00:03:18,531 --> 00:03:21,201
+and the minus sign
+is going into the right side.
+
+59
+00:03:21,201 --> 00:03:23,636
+The embossing cylinder
+should be on the left.
+
+60
+00:03:23,636 --> 00:03:25,505
+And the counter
+cylinder should be on the right.
+
+61
+00:03:26,773 --> 00:03:29,008
+I then slide the cylinders and carefully.
+
+62
+00:03:29,008 --> 00:03:32,445
+At about the halfway point, the rollers
+should stay in place on their own.
+
+63
+00:03:33,112 --> 00:03:36,549
+Once the rollers are in place,
+do another check to make sure
+
+64
+00:03:36,549 --> 00:03:40,820
+that the embossing cylinder is on the left
+and has the X shape on top.
+
+65
+00:03:41,187 --> 00:03:44,224
+The indicator triangles on top
+and bottom should be pointing
+
+66
+00:03:44,224 --> 00:03:47,227
+directly at each other,
+and the side triangle should be mirrored.
+
+67
+00:03:47,427 --> 00:03:50,430
+Next step is to install
+the handle connector.
+
+68
+00:03:50,430 --> 00:03:53,132
+The handle connector
+has a matching X shape
+
+69
+00:03:53,132 --> 00:03:56,135
+That should fit into the embossing
+cylinder holder.
+
+70
+00:03:56,803 --> 00:03:59,806
+Next, snap the lid back on.
+
+71
+00:04:02,375 --> 00:04:05,378
+The last step is to attach the handle
+grip.
+
+72
+00:04:07,180 --> 00:04:09,949
+Place the handle grip
+on top of the handle connector
+
+73
+00:04:09,949 --> 00:04:12,952
+and press down until it clicks into place.
+
+74
+00:04:13,920 --> 00:04:17,357
+Now go ahead and test it out
+by giving the handle a couple of turns.
+
+75
+00:04:17,824 --> 00:04:21,027
+It should feel a little stiff,
+but not too difficult to rotate.
+
+76
+00:04:21,294 --> 00:04:23,796
+if you're experiencing
+a lot of resistance,
+
+77
+00:04:23,796 --> 00:04:25,832
+double check
+everything is aligned correctly.
+
+78
+00:04:26,799 --> 00:04:27,667
+And that's it.
+
+79
+00:04:27,667 --> 00:04:30,470
+Your 3D printed Braille
+embosser is now fully assembled.

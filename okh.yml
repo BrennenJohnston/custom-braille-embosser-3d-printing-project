@@ -1,0 +1,100 @@
+# Open Know-How (OKH) Manifest for the Custom Braille Embosser
+# Compliant with the Open Know-How Specification (Internet of Production Alliance, 2022)
+# Spec: https://standards.internetofproduction.org/pub/okh
+# Generator reference: https://okh.makernet.org/form
+
+okhv: OKH-LOSHv1.0
+
+name: Custom Braille Embosser
+repo: https://github.com/BrennenJohnston/custom-braille-embosser-3d-printing-project
+version: 1.0.0
+release: https://github.com/BrennenJohnston/custom-braille-embosser-3d-printing-project/releases/tag/v1.0.0
+license:
+  hardware: CERN-OHL-W-2.0
+  documentation: CC-BY-SA-4.0
+  software: GPL-3.0-or-later
+licensor:
+  name: Brennen Johnston
+  contact:
+    name: Brennen Johnston
+documentation-language: en
+function: |
+  A fully 3D-printed, hand-operated braille embosser. The user feeds card stock between
+  two interchangeable cylindrical plates - an embossing plate (with raised dots forming
+  the desired braille text) and a universal counter plate (with matching cavities) -
+  then squeezes the handle to produce permanent, raised, Grade-1 or Grade-2 braille on
+  the card. The embossing plates are produced separately from this repository using the
+  parametric OpenSCAD or browser-based generators in the companion repositories.
+  No off-the-shelf parts, fasteners, springs, or electronics are required.
+
+documentation-readiness-level: ODRL-3*
+technology-readiness-level: OTRL-5
+
+manufacturing-instructions: ./Documentation/Custom_Braille_Embosser_Maker_Guide.pdf
+user-manual: ./Documentation/Custom_Braille_Embosser_User_Guide.pdf
+bom: ./Documentation/Custom_Braille_Embosser_BOM.xlsx
+
+design-files:
+  - path: ./Design_Files/CAD_Design_Files/Fusion/Braille Embosser Assembly v1.0.f3z
+    title: Fusion 360 archive of the full assembly
+  - path: ./Design_Files/CAD_Design_Files/STEP/P01-P10 - Braille Embosser Assembly v1.0.step
+    title: Neutral STEP export of the full assembly
+
+making-instructions:
+  - path: ./Documentation/Custom_Braille_Embosser_Maker_Guide.pdf
+    title: Maker Guide
+  - path: https://youtu.be/m71VNZq28MI
+    title: "Video tutorial 1 - Customizing braille, downloading STLs, 3D-print settings"
+  - path: https://youtu.be/x-uPNtT2Gqk
+    title: "Video tutorial 2 - Assembling the 3D-printed parts"
+
+operation-instructions:
+  - path: ./Documentation/Custom_Braille_Embosser_User_Guide.pdf
+    title: User Guide
+  - path: ./Documentation/Custom_Braille_Embosser_Quickstart_Guide.pdf
+    title: Quickstart Guide
+  - path: https://youtu.be/77iXvJbkXh4
+    title: "Video tutorial 3 - Using the completed Custom Braille Embosser"
+
+manufacturing-files:
+  - path: ./Build_Files/3D_Printing_Files/STL/
+    title: 3D printing source files (STL)
+  - path: ./Build_Files/3D_Printing_Files/Print_Profiles/
+    title: Sliced 3MF print profiles for Bambu Lab X1C
+  - path: ./Build_Files/3D_Printing_Files/Embossing_Plates_Examples/
+    title: Pre-generated example embossing/counter plate pairs (0.3 mm and 0.4 mm card stock)
+  - path: ./Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/
+    title: Customizer for generating new embossing/counter plates from arbitrary text (web-based primary, OpenSCAD offline alternative vendored locally)
+  - path: https://braille-card-and-cylinder-stl-gener.vercel.app
+    title: Web-based plate customizer (PRIMARY recommended workflow; auto-translates English to Grade 1/2 braille)
+
+image: ./Photos/Custom_Braille_Embosser.jpg
+
+keywords:
+  - assistive-technology
+  - braille
+  - braille-embosser
+  - blindness
+  - vision-impairment
+  - 3d-printable
+  - no-fasteners
+  - openat
+  - openscad
+  - hand-operated
+
+attestation: 
+  - This device has been built and used by the designer; no third-party certification has been performed.
+
+related:
+  - name: braille-cylinder-stl-generator
+    url: https://github.com/BrennenJohnston/braille-cylinder-stl-generator
+    relation: PRIMARY (web-based) generator for the embossing/counter plates used by this device; deployed at https://braille-card-and-cylinder-stl-gener.vercel.app
+  - name: braille-cylinder-stl-generator-openscad
+    url: https://github.com/BrennenJohnston/braille-cylinder-stl-generator-openscad
+    relation: ALTERNATIVE (OpenSCAD, offline) generator for the embossing/counter plates; vendored locally at Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative/ (PolyForm Noncommercial 1.0.0)
+  - name: openscad-assistive-forge
+    url: https://github.com/BrennenJohnston/openscad-assistive-forge
+    relation: accessible browser UI used to drive the OpenSCAD plate generator
+  - name: OpenAT-Template
+    url: https://github.com/makersmakingchange/OpenAT-Template
+    relation: documentation/repository structure follows this template

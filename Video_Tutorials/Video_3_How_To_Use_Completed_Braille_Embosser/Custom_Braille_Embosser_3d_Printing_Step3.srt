@@ -1,0 +1,201 @@
+﻿1
+00:00:00,066 --> 00:00:01,501
+In this video, I'm going to
+
+2
+00:00:01,501 --> 00:00:04,604
+walk you through how to use the 3D
+printed Braille Embosser.
+
+3
+00:00:05,638 --> 00:00:08,641
+You want to start by aligning
+the indicator triangles.
+
+4
+00:00:09,042 --> 00:00:09,876
+Turn the handle
+
+5
+00:00:09,876 --> 00:00:13,613
+until the triangles on both cylinders
+are directly on top of each other.
+
+6
+00:00:14,214 --> 00:00:17,183
+This is what the starting position
+should look like.
+
+7
+00:00:17,183 --> 00:00:19,686
+Once the triangles are aligned
+and in the starting
+
+8
+00:00:19,686 --> 00:00:22,689
+position, rotate
+the entire Braille Embosser.
+
+9
+00:00:22,789 --> 00:00:25,191
+so the rollers are horizontal.
+
+10
+00:00:25,191 --> 00:00:28,561
+To line up the embossed Braille dots
+with the printed information
+
+11
+00:00:28,561 --> 00:00:31,631
+on your business card,
+use the indicator triangles as your guide.
+
+12
+00:00:31,798 --> 00:00:34,167
+The triangles are pointing
+in the up direction,
+
+13
+00:00:34,167 --> 00:00:37,170
+to show you which way
+the Braille is going to be embossed.
+
+14
+00:00:38,038 --> 00:00:41,207
+You then orient your card
+to make sure that it rolls from left
+
+15
+00:00:41,207 --> 00:00:42,909
+to right, with the printed information
+
+16
+00:00:42,909 --> 00:00:45,912
+facing up in the directions
+that the triangles are pointing.
+
+17
+00:00:46,546 --> 00:00:49,549
+I find it helpful to use gravity to level
+the card.
+
+18
+00:00:49,582 --> 00:00:52,419
+I do this by dropping it into place
+between the rollers.
+
+19
+00:00:52,419 --> 00:00:54,154
+and double checking that it seems level.
+
+20
+00:00:56,189 --> 00:00:56,856
+Next,
+
+21
+00:00:56,856 --> 00:00:59,859
+rotate the handle forward
+about a half turn.
+
+22
+00:00:59,859 --> 00:01:03,196
+Another technique I found helpful
+is to flip the embosser partway through
+
+23
+00:01:03,263 --> 00:01:06,266
+so I can watch the dots forming
+and make sure that they all look good.
+
+24
+00:01:06,666 --> 00:01:09,502
+By going back and forth a few times,
+you can make sure that every dot
+
+25
+00:01:09,502 --> 00:01:10,637
+is fully embossed.
+
+26
+00:01:10,637 --> 00:01:14,707
+This only works really well if you're able
+to stop before going over the last dot.
+
+27
+00:01:14,908 --> 00:01:17,911
+If you go too far
+you may get a misaligned print.
+
+28
+00:01:18,711 --> 00:01:20,780
+Once all the dots look correctly embossed,
+
+29
+00:01:20,780 --> 00:01:23,783
+you can go ahead and roll it
+all the way through.
+
+30
+00:01:25,151 --> 00:01:28,154
+And that's it.
+
+31
+00:01:28,488 --> 00:01:30,223
+A quick note on settings:
+
+32
+00:01:30,223 --> 00:01:34,027
+This embosser is the 0.4mm
+cardstock setting.
+
+33
+00:01:34,194 --> 00:01:37,797
+If you have thinner business cards,
+make sure you use the 0.3mm
+
+34
+00:01:37,797 --> 00:01:39,466
+cylinder preset instead.
+
+35
+00:01:41,267 --> 00:01:44,037
+If at any point you want to change out
+the cylinders,
+
+36
+00:01:44,037 --> 00:01:47,040
+you can just pull the lid off
+and let the handle stay attached.
+
+37
+00:01:47,574 --> 00:01:51,144
+Sometimes new rollers can get
+stuck into the base, and if that happens,
+
+38
+00:01:51,377 --> 00:01:54,314
+I recommend using a small flathead
+screwdriver
+
+39
+00:01:54,314 --> 00:01:57,283
+help work them loose.
+
+40
+00:01:57,383 --> 00:02:01,454
+And that's how you operate and swap
+cylinders on the 3D printed Braille
+
+41
+00:02:01,454 --> 00:02:02,789
+Embosser.
+
+42
+00:02:02,789 --> 00:02:05,892
+If you run into any issues
+or want to contribute to the project,
+
+43
+00:02:06,192 --> 00:02:09,162
+the GitHub link is in the app
+and in the video description.

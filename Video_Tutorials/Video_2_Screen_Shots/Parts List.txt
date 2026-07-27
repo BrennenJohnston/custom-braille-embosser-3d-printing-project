@@ -1,0 +1,13 @@
+10 device parts
+P01 - Body Base
+P02 - Body Top
+P03 - Embosser Holder - A1
+P04 - Embosser Holder - A2
+P05 - Counter Holder - B1
+P06 - Counter Holder - B2
+P07 - Grip Extension Bottom
+P08 - Grip Extension Top
+P09 - Handle Connector
+P10 - Handle Grip
+P_A - Embossing Cylinder
+P_B - Counter Cylinder
