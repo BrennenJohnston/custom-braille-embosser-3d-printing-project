@@ -6,7 +6,7 @@ Version 1.0.0 | 2026-May-31
  - Sliced print profiles provided for Bambu Lab X1C: `Braille Embosser Assembly v1.0 (0.2 Layer Height).3mf` (all 10 device parts; 0.2 mm layer height) and `Embossing and Counter Cylinder High Quality.3mf` (cylinder pair only; 0.12 mm layer height with Arachne walls).
  - Compatible with cylindrical embossing-plate / counter-plate pairs produced by the companion projects `braille-cylinder-stl-generator` (web-based, primary) and `braille-cylinder-stl-generator-openscad` (OpenSCAD, alternative).
  - Two officially supported customizer paths:
-   - PRIMARY - Web-based customizer (recommended for most users): https://braille-card-and-cylinder-stl-gener.vercel.app
+   - PRIMARY - Web-based customizer (recommended for most users): https://braille-cylinder-stl-generator.vercel.app
      auto-translates English to Grade 1 / Grade 2 braille across 50+ language tables; STL generation runs entirely in your browser; no install.
    - ALTERNATIVE - OpenSCAD offline customizer (vendored locally for offline use):
      `Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative/`

@@ -32,7 +32,7 @@ Repeat steps 1-5 to emboss more cards. Do not roll too far past the last dot whi
 
 Generate a new plate pair from text using one of the two officially supported customizers. For most users, the web-based customizer is the easiest:
 
-- **Primary (web-based, recommended):** open <https://braille-card-and-cylinder-stl-gener.vercel.app>, type your text, choose a translation table and card thickness, click Generate, and download the STLs. Auto-translates English to Grade 1 / Grade 2 braille; runs entirely in your browser. (Same tool as in [Video 1](https://youtu.be/m71VNZq28MI).)
+- **Primary (web-based, recommended):** open <https://braille-cylinder-stl-generator.vercel.app>, type your text, choose a translation table and card thickness, click Generate, and download the STLs. Auto-translates English to Grade 1 / Grade 2 braille; runs entirely in your browser. (Same tool as in [Video 1](https://youtu.be/m71VNZq28MI).)
 - **Alternative (OpenSCAD, offline):** included in this repo at [`Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative/Braille_Cylinder_STL_Generator.scad`](../Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative/Braille_Cylinder_STL_Generator.scad). Requires [OpenSCAD](https://openscad.org/) and a manual one-time translation step at <https://www.branah.com/braille-translator>. Use this if you need to work offline or want full parametric control.
 
 Print both new plates, or print only a new embossing plate if you are reusing the same card thickness and already have the matching universal counter plate.

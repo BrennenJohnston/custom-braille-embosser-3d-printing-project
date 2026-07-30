@@ -96,7 +96,7 @@ Anything other than the one targeted edit:
 - [Presets file (canonical)](../presets.scad)
 - [License — PolyForm Noncommercial 1.0.0](../LICENSE_PolyForm_Noncommercial_1.0.0.md)
 - [Upstream repository — `braille-cylinder-stl-generator-openscad`](https://github.com/BrennenJohnston/braille-cylinder-stl-generator-openscad)
-- [Web-based generator (alternative to OpenSCAD entirely)](https://braille-card-and-cylinder-stl-gener.vercel.app)
+- [Web-based generator (alternative to OpenSCAD entirely)](https://braille-cylinder-stl-generator.vercel.app)
 
 ---
 

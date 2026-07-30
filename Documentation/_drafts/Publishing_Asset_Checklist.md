@@ -34,7 +34,7 @@
 |---|---|---|---|
 | In-use shot (someone embossing a card) | All 3 platform galleries | USE-EXISTING or RESHOOT | Try `Photos/DSC_8569.jpg`, `DSC_8570.jpg`, `DSC_8572.jpg`, `DSC_8575.jpg` first; reshoot if no clean in-use frame exists. |
 | Multiple-card / multi-message demo | MakerWorld + Printables galleries | RESHOOT | Lay out 2-4 cards each embossed with a different message. Demonstrates the "content-agnostic" angle. |
-| Customizer screenshot (browser app) | Printables description; MakerWorld Print Profile 2 | RESHOOT | Browser screenshot of <https://braille-card-and-cylinder-stl-gener.vercel.app> showing the text input and the live 3D preview. |
+| Customizer screenshot (browser app) | Printables description; MakerWorld Print Profile 2 | RESHOOT | Browser screenshot of <https://braille-cylinder-stl-generator.vercel.app> showing the text input and the live 3D preview. |
 | OpenSCAD customizer screenshot | Printables description | RESHOOT (optional) | Screenshot of the OpenSCAD Customizer panel for makers who pick the OpenSCAD path. |
 | Open-graph banner (GitHub social preview, 1280x640) | GitHub repo only | USE-EXISTING | Template at [`Photos/repository-open-graph-template.png`](../../Photos/repository-open-graph-template.png). Optional - replace with a Custom Braille Embosser banner before configuring as GitHub social-preview. |
 
@@ -84,7 +84,7 @@
 | 3 YouTube tutorials | DONE | <https://youtu.be/m71VNZq28MI>, <https://youtu.be/x-uPNtT2Gqk>, <https://youtu.be/77iXvJbkXh4> |
 | Local `.mp4` + `.srt` mirrors of all 3 tutorials | DONE | [`Video_Tutorials/Video_1_Customizing_Braille_Downloading_STL_3D_Print_Settings/`](../../Video_Tutorials/Video_1_Customizing_Braille_Downloading_STL_3D_Print_Settings/), `Video_2_...`, `Video_3_...` |
 | Bonus CAD assembly simulation (no narration) | DONE | [`Video_Tutorials/Braille_Embosser_Assembly_Video_Simulation_2.mp4`](../../Video_Tutorials/Braille_Embosser_Assembly_Video_Simulation_2.mp4) (~10 MB) |
-| Web customizer link | DONE | <https://braille-card-and-cylinder-stl-gener.vercel.app> |
+| Web customizer link | DONE | <https://braille-cylinder-stl-generator.vercel.app> |
 | OpenSCAD customizer source (vendored locally) | DONE | [`Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative/`](../../Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative/) |
 | Accessible OpenSCAD UI link | DONE | <https://github.com/BrennenJohnston/openscad-assistive-forge> |
 

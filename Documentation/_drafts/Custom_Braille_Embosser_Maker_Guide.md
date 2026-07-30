@@ -11,7 +11,7 @@
 The Custom Braille Embosser is a fully 3D-printed, hand-operated braille embosser. As the maker you will:
 
 1. Print 10 device parts.
-2. Generate one or more pairs of cylindrical embossing/counter plates for the user's chosen text. **The recommended way to do this is the web-based customizer at <https://braille-card-and-cylinder-stl-gener.vercel.app>** (auto-translates English to braille, no install required). An offline OpenSCAD copy is included in this repo at [`Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative/`](../../Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative) for makers who need to work offline. See Section 7 for the full workflow.
+2. Generate one or more pairs of cylindrical embossing/counter plates for the user's chosen text. **The recommended way to do this is the web-based customizer at <https://braille-cylinder-stl-generator.vercel.app>** (auto-translates English to braille, no install required). An offline OpenSCAD copy is included in this repo at [`Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative/`](../../Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative) for makers who need to work offline. See Section 7 for the full workflow.
 3. Print the plate pair on the same 3D printer.
 4. Snap the parts together by hand. There are no fasteners, no springs, no glue, and no electronics.
 5. Test that your assembled embosser produces clean dots on 0.3 mm and 0.4 mm card stock using one of the example plate pairs included in this repository.
@@ -100,13 +100,13 @@ The browser-based generator is the **primary recommended workflow** for this pro
 
 | Field | Value |
 |---|---|
-| **Open the web app** | <https://braille-card-and-cylinder-stl-gener.vercel.app> |
+| **Open the web app** | <https://braille-cylinder-stl-generator.vercel.app> |
 | Source repository | [`braille-cylinder-stl-generator`](https://github.com/BrennenJohnston/braille-cylinder-stl-generator) |
 | Required software | Any modern browser. No install. |
 | License (web app) | PolyForm Noncommercial 1.0.0 |
 
 Step-by-step:
-1. Open the web app at <https://braille-card-and-cylinder-stl-gener.vercel.app>.
+1. Open the web app at <https://braille-cylinder-stl-generator.vercel.app>.
 2. If needed, enable the accessibility options shown at the top of the app:
    - Dark / Light / High Contrast mode
    - Larger / smaller font size

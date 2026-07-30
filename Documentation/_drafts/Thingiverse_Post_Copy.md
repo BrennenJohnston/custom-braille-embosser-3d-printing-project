@@ -36,7 +36,7 @@ The machine itself is simple. It's fully 3D printed, hand operated, and built fr
 
 **Primary - Web-based customizer (recommended):**
 
-Open <https://braille-card-and-cylinder-stl-gener.vercel.app>, paste your text, pick the card thickness and translation table, click *Generate*, and download both STLs. The web app handles braille translation through [Liblouis](https://liblouis.io/), runs the STL generation **locally in your browser** so your text is not uploaded, and is screen-reader friendly.
+Open <https://braille-cylinder-stl-generator.vercel.app>, paste your text, pick the card thickness and translation table, click *Generate*, and download both STLs. The web app handles braille translation through [Liblouis](https://liblouis.io/), runs the STL generation **locally in your browser** so your text is not uploaded, and is screen-reader friendly.
 
 **Backup - OpenSCAD offline alternative:**
 

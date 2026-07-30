@@ -47,7 +47,7 @@ The Custom Braille Embosser gives a blind user, a vision-impaired user, or anyon
 
 | Path | Best for | Where |
 |---|---|---|
-| **Primary - Web-based customizer** | Most users; auto-translates English to Grade 1 / Grade 2 braille (50+ languages); runs in any browser; screen-reader friendly; no install. | <https://braille-card-and-cylinder-stl-gener.vercel.app> |
+| **Primary - Web-based customizer** | Most users; auto-translates English to Grade 1 / Grade 2 braille (50+ languages); runs in any browser; screen-reader friendly; no install. | <https://braille-cylinder-stl-generator.vercel.app> |
 | **Alternative - OpenSCAD (offline)** | Offline use; full parametric control; existing OpenSCAD/CAD workflows. Vendored in this repo. | [`Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative/`](../../Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative) |
 
 A side-by-side comparison and full quick-start steps for both options are kept in [`Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/README.md`](../../Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/README.md).

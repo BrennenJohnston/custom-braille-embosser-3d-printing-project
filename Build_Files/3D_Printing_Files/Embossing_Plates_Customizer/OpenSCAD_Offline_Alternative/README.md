@@ -1,6 +1,6 @@
 # OpenSCAD Offline Alternative - Embossing Plate Customizer
 
-> **This is the *alternative* path.** The **primary recommended workflow** for the Custom Braille Embosser is the web-based customizer at <https://braille-card-and-cylinder-stl-gener.vercel.app>. Use this OpenSCAD version only if you need to work offline, want full parametric control, or want to inspect/modify the source. See the [parent README](../README.md) for a side-by-side comparison.
+> **This is the *alternative* path.** The **primary recommended workflow** for the Custom Braille Embosser is the web-based customizer at <https://braille-cylinder-stl-generator.vercel.app>. Use this OpenSCAD version only if you need to work offline, want full parametric control, or want to inspect/modify the source. See the [parent README](../README.md) for a side-by-side comparison.
 
 This folder contains a verbatim copy of the OpenSCAD parametric braille-cylinder generator at the time of the v1.0.0 release of the Custom Braille Embosser, vendored here so the embosser project is fully usable without an internet connection. It is the same script demonstrated in **Video Tutorial 1** (alongside the web app).
 
@@ -11,6 +11,11 @@ The upstream repository is [`braille-cylinder-stl-generator-openscad`](https://g
 > still say that. Those files are left byte-faithful to the v2.2.1 tree on
 > purpose; GitHub redirects the old URLs. Only this wrapper README, which is
 > written by the embosser project rather than copied, uses the current name.
+> The web app's address moved as well: the copied files point at the old
+> `braille-card-and-cylinder-stl-gener.vercel.app` address, which still resolves
+> but no longer receives updates. The current address is
+> <https://braille-cylinder-stl-generator.vercel.app>. Refreshing this snapshot
+> to a newer upstream release is what will correct it inside the copied files.
 
 | Field | Value |
 |---|---|
@@ -202,7 +207,7 @@ When pulling a newer upstream snapshot of `Braille_Cylinder_STL_Generator.scad` 
 
 - **For an accessible (screen-reader-friendly) browser UI on top of this OpenSCAD generator:** use [`openscad-assistive-forge`](https://github.com/BrennenJohnston/openscad-assistive-forge).
 - **For the latest version, automated tests, and additional documentation:** visit the upstream repository [`braille-cylinder-stl-generator-openscad`](https://github.com/BrennenJohnston/braille-cylinder-stl-generator-openscad).
-- **For the web-based version (no install required, automatic translation):** <https://braille-card-and-cylinder-stl-gener.vercel.app>.
+- **For the web-based version (no install required, automatic translation):** <https://braille-cylinder-stl-generator.vercel.app>.
 
 ---
 

@@ -65,7 +65,7 @@ manufacturing-files:
     title: Pre-generated example embossing/counter plate pairs (0.3 mm and 0.4 mm card stock)
   - path: ./Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/
     title: Customizer for generating new embossing/counter plates from arbitrary text (web-based primary, OpenSCAD offline alternative vendored locally)
-  - path: https://braille-card-and-cylinder-stl-gener.vercel.app
+  - path: https://braille-cylinder-stl-generator.vercel.app
     title: Web-based plate customizer (PRIMARY recommended workflow; auto-translates English to Grade 1/2 braille)
 
 image: ./Photos/Custom_Braille_Embosser.jpg
@@ -88,7 +88,7 @@ attestation:
 related:
   - name: braille-cylinder-stl-generator
     url: https://github.com/BrennenJohnston/braille-cylinder-stl-generator
-    relation: PRIMARY (web-based) generator for the embossing/counter plates used by this device; deployed at https://braille-card-and-cylinder-stl-gener.vercel.app
+    relation: PRIMARY (web-based) generator for the embossing/counter plates used by this device; deployed at https://braille-cylinder-stl-generator.vercel.app
   - name: braille-cylinder-stl-generator-openscad
     url: https://github.com/BrennenJohnston/braille-cylinder-stl-generator-openscad
     relation: ALTERNATIVE (OpenSCAD, offline) generator for the embossing/counter plates; vendored locally at Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative/ (PolyForm Noncommercial 1.0.0)

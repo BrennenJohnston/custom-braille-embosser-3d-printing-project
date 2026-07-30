@@ -22,7 +22,7 @@
 
 | Link | URL |
 |---|---|
-| Web-based customizer (deployed) | <https://braille-card-and-cylinder-stl-gener.vercel.app> |
+| Web-based customizer (deployed) | <https://braille-cylinder-stl-generator.vercel.app> |
 | Web customizer source repo | <https://github.com/BrennenJohnston/braille-cylinder-stl-generator> |
 | OpenSCAD customizer upstream | <https://github.com/BrennenJohnston/braille-cylinder-stl-generator-openscad> |
 | Accessible OpenSCAD UI | <https://github.com/BrennenJohnston/openscad-assistive-forge> |

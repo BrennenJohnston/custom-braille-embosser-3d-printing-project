@@ -40,7 +40,7 @@ Open the web app, type your text, choose a translation table, click Generate, an
 
 | Field | Value |
 |---|---|
-| **Open the web app** | <https://braille-card-and-cylinder-stl-gener.vercel.app> |
+| **Open the web app** | <https://braille-cylinder-stl-generator.vercel.app> |
 | Source repository | [`braille-cylinder-stl-generator`](https://github.com/BrennenJohnston/braille-cylinder-stl-generator) |
 | Best for | Most users; users who want automatic translation; users who use a screen reader; users on Chromebooks / tablets / no-install workflows |
 | Walkthrough | [Video Tutorial 1 (YouTube)](https://youtu.be/m71VNZq28MI) |
@@ -80,7 +80,7 @@ The 10 part STLs are in [`/Build_Files/3D_Printing_Files/STL`](/Build_Files/3D_P
 ### 4. Generate (or download) Embossing & Counter Plates
 
 Pick one of the two customizer paths described in [Generating Custom Braille Plates](#generating-custom-braille-plates---two-customizer-options) above:
-- **Primary:** the web-based customizer at <https://braille-card-and-cylinder-stl-gener.vercel.app> (auto-translates English to braille).
+- **Primary:** the web-based customizer at <https://braille-cylinder-stl-generator.vercel.app> (auto-translates English to braille).
 - **Alternative:** the OpenSCAD customizer included in this repo at [`Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative/`](/Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative).
 
 Generate both an embossing plate and a matching universal counter plate at the **same** card-stock thickness, then print them on the same printer. (You can also start with the pre-generated example plates in [`/Build_Files/3D_Printing_Files/Embossing_Plates_Examples/`](/Build_Files/3D_Printing_Files/Embossing_Plates_Examples) to verify your printer first.)
@@ -132,7 +132,7 @@ This repository describes Open Hardware:
 - Everything needed or used to design, make, test, or prepare the Custom Braille Embosser is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl).
 - All software is under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl.html).
 - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Custom Braille Embosser are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
-- **Exception:** the vendored copy of the OpenSCAD plate generator at [`Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative/`](/Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative) is governed by a separate [PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0) license (see `LICENSE_PolyForm_Noncommercial_1.0.0.md` in that folder). It is free for personal, educational, and non-commercial use; no commercial use is permitted. The web-based customizer at <https://braille-card-and-cylinder-stl-gener.vercel.app> is also licensed under PolyForm Noncommercial 1.0.0.
+- **Exception:** the vendored copy of the OpenSCAD plate generator at [`Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative/`](/Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative) is governed by a separate [PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0) license (see `LICENSE_PolyForm_Noncommercial_1.0.0.md` in that folder). It is free for personal, educational, and non-commercial use; no commercial use is permitted. The web-based customizer at <https://braille-cylinder-stl-generator.vercel.app> is also licensed under PolyForm Noncommercial 1.0.0.
 
 You may redistribute and modify this documentation and make products using it under the terms of the [CERN-OHL-W v2](https://cern.ch/cern-ohl).
 This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.

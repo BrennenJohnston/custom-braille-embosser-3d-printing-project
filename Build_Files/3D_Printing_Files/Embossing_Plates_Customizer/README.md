@@ -24,7 +24,7 @@ The browser-based generator is the **primary recommended workflow** for this pro
 
 | Step | Action |
 |---|---|
-| 1. Open the web app | <https://braille-card-and-cylinder-stl-gener.vercel.app> |
+| 1. Open the web app | <https://braille-cylinder-stl-generator.vercel.app> |
 | 2. Source repository | <https://github.com/BrennenJohnston/braille-cylinder-stl-generator> |
 | 3. License (web app) | PolyForm Noncommercial 1.0.0 (free for personal, educational, and non-commercial use) |
 | 4. Type your text, pick a translation table and grade, set card thickness | (see Video 1 walkthrough) |

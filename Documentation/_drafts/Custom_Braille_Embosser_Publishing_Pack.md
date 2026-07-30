@@ -132,7 +132,7 @@ To swap the braille content you pop the lid off the body, lift the embossing cyl
 | F | **Bill of Materials** | CSV (final) plus `.xlsx` working copy. No off-the-shelf electronics, no fasteners; only filament and card stock. | [`Documentation/Custom_Braille_Embosser_BOM.csv`](../Custom_Braille_Embosser_BOM.csv) |
 | G | **Video tutorials (3 YouTube + local mirrors)** | Tutorial 1: customizing braille / downloading STLs / 3D-print settings. Tutorial 2: snap-fit assembly. Tutorial 3: using the completed device. Each as a YouTube link and a local `.mp4` + `.srt`. | [`Video_Tutorials/`](../../Video_Tutorials/) |
 | H | **Bonus CAD-driven assembly simulation** | `Braille_Embosser_Assembly_Video_Simulation_2.mp4` (~10 MB, no narration) - usable as a supplemental marketing clip. | [`Video_Tutorials/Braille_Embosser_Assembly_Video_Simulation_2.mp4`](../../Video_Tutorials/Braille_Embosser_Assembly_Video_Simulation_2.mp4) |
-| I | **Companion-tool links (not bundled files; external)** | Web-based customizer (deployed): <https://braille-card-and-cylinder-stl-gener.vercel.app>. Source: `braille-cylinder-stl-generator`. OpenSCAD copy vendored in the repo. Accessible OpenSCAD UI: `openscad-assistive-forge`. | See [Section 7](#7-customizer-paths---browser-first-openscad-as-backup) |
+| I | **Companion-tool links (not bundled files; external)** | Web-based customizer (deployed): <https://braille-cylinder-stl-generator.vercel.app>. Source: `braille-cylinder-stl-generator`. OpenSCAD copy vendored in the repo. Accessible OpenSCAD UI: `openscad-assistive-forge`. | See [Section 7](#7-customizer-paths---browser-first-openscad-as-backup) |
 
 ---
 
@@ -144,7 +144,7 @@ Plate generation is intentionally **decoupled** from the device. The device is c
 
 | Field | Value |
 |---|---|
-| Open the web app | <https://braille-card-and-cylinder-stl-gener.vercel.app> |
+| Open the web app | <https://braille-cylinder-stl-generator.vercel.app> |
 | Source repo | <https://github.com/BrennenJohnston/braille-cylinder-stl-generator> |
 | Translation | Automatic braille translation via [Liblouis](https://liblouis.io/). The documented workflow centers on English Grade 1 / Grade 2, with 50+ language tables available. |
 | Install required | None. Works in a modern browser, including Chromebooks and tablets. |

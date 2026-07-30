@@ -58,7 +58,7 @@ The whole project is open source. My real hope is that others will develop this 
 
 ### Primary Web Based:
 
-Open https://braille-card-and-cylinder-stl-gener.vercel.app, follow Video #1 below, "Customizing braille, downloading STLs, 3D-print settings".
+Open https://braille-cylinder-stl-generator.vercel.app, follow Video #1 below, "Customizing braille, downloading STLs, 3D-print settings".
 
 ### Backup OpenSCAD offline alternative:
 

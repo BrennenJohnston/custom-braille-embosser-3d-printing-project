@@ -62,7 +62,7 @@ P10 - Handle Grip
 
 Two Ways to Generate Custom STL
 
-Primary Web Based: Open https://braille-card-and-cylinder-stl-gener.vercel.app, follow Video #1 below, "Customizing braille, downloading STLs, 3D-print settings".
+Primary Web Based: Open https://braille-cylinder-stl-generator.vercel.app, follow Video #1 below, "Customizing braille, downloading STLs, 3D-print settings".
 
 Backup OpenSCAD offline alternative: The OpenSCAD customizer is the offline, power user, backup for anyone not wanting to, or not able to use the browser based tool.
 

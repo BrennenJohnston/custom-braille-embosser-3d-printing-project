@@ -19,7 +19,7 @@
 | Add Video (long URL field) | `https://www.youtube.com/watch?v=m71VNZq28MI` (Tutorial 1) |
 | Add Video (long URL field) | `https://www.youtube.com/watch?v=x-uPNtT2Gqk` (Tutorial 2) |
 | Add Video (long URL field) | `https://www.youtube.com/watch?v=77iXvJbkXh4` (Tutorial 3) |
-| External link 1 | <https://braille-card-and-cylinder-stl-gener.vercel.app> (web customizer) |
+| External link 1 | <https://braille-cylinder-stl-generator.vercel.app> (web customizer) |
 | External link 2 | <https://github.com/BrennenJohnston/custom-braille-embosser-3d-printing-project> (source repo) |
 
 ---
@@ -84,7 +84,7 @@ Two Ways to Generate Custom STL
 
 Primary Web Based:
 
-Open https://braille-card-and-cylinder-stl-gener.vercel.app, follow Video #1 below, "Customizing braille, downloading STLs, 3D-print settings".
+Open https://braille-cylinder-stl-generator.vercel.app, follow Video #1 below, "Customizing braille, downloading STLs, 3D-print settings".
 
 Backup OpenSCAD offline alternative:
 
@@ -231,7 +231,7 @@ More Info & Credits
 
 **Description (paste into this Print Profile's body):**
 
-> All 10 device parts arranged on one Bambu Lab X1C build plate at 0.2 mm layer height. Prints the full embosser body in a single print job. Pair with one of the included example plate pairs (`Embossing_Plates_Examples/`) or generate a custom plate pair at <https://braille-card-and-cylinder-stl-gener.vercel.app> before assembly.
+> All 10 device parts arranged on one Bambu Lab X1C build plate at 0.2 mm layer height. Prints the full embosser body in a single print job. Pair with one of the included example plate pairs (`Embossing_Plates_Examples/`) or generate a custom plate pair at <https://braille-cylinder-stl-generator.vercel.app> before assembly.
 >
 > Cylinder plates are **not** included in this Print Profile - print them separately using either the High-Quality cylinder-only profile below, or your own slicing of the example plate STLs. See the main listing description for the tested cylinder print-settings block.
 >
@@ -262,7 +262,7 @@ More Info & Credits
 
 > **Tested high-quality cylinder pair profile on a Bambu Lab X1C.** Prints both the embossing cylinder and the universal counter cylinder using the settings demonstrated in [Tutorial 1](https://youtu.be/m71VNZq28MI): High Quality preset, Arachne wall generator, seam painted only onto the indicator-letter / triangle area, and speeds reduced to roughly half of Bambu Studio defaults (initial layer 40, infill 75, outer wall 50, inner wall 75, small perimeters 40, with halved accelerations). No supports, no brim.
 >
-> **Plate-pair rule:** the embossing plate and the counter plate must be generated at the same card-thickness preset (`0.3mm` or `0.4mm`). Use either an included example pair or the web-based customizer at <https://braille-card-and-cylinder-stl-gener.vercel.app> to make your own.
+> **Plate-pair rule:** the embossing plate and the counter plate must be generated at the same card-thickness preset (`0.3mm` or `0.4mm`). Use either an included example pair or the web-based customizer at <https://braille-cylinder-stl-generator.vercel.app> to make your own.
 >
 > Use case: replacement embossing cylinder when the braille text changes (the universal counter cylinder can be reused for any embossing cylinder at the same card thickness).
 >

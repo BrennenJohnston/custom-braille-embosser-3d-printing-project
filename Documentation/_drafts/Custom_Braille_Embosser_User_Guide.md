@@ -60,7 +60,7 @@ Two officially supported customizer options are available. **For most users, use
 
 | Customizer | Use case | Where to find it |
 |---|---|---|
-| **Primary - Web-Based** | Most users; auto-translates English to Grade 1 / Grade 2 braille (50+ languages); works on any browser, including screen-reader users; no install. | <https://braille-card-and-cylinder-stl-gener.vercel.app> |
+| **Primary - Web-Based** | Most users; auto-translates English to Grade 1 / Grade 2 braille (50+ languages); works on any browser, including screen-reader users; no install. | <https://braille-cylinder-stl-generator.vercel.app> |
 | **Alternative - OpenSCAD (offline)** | Offline use; full parametric control; existing OpenSCAD/CAD workflows. Included locally in this repo at [`Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative/`](../../Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative). Requires manual translation via <https://www.branah.com/braille-translator>. | OpenSCAD 2024.x or newer |
 
 A side-by-side comparison of the two is kept up to date in [`Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/README.md`](../../Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/README.md). The detailed workflow for each is in **Section 7** of the [Maker Guide](Custom_Braille_Embosser_Maker_Guide.md).

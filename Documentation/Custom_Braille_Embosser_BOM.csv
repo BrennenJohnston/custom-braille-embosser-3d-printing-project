@@ -22,8 +22,8 @@ P10,Handle Grip,Outer sleeve the user squeezes when embossing.,PLA or PETG,Any,A
 ,,,,,,,,,,,,,
 ,Embossing & Counter Plates (printed separately),,,,,,,24.68 (HQ cylinder pair total),,$0.62,$0.62,,
 ,Part,Description,Filament Type,Filament,Color,QTY / Device,Mass (g) / Part,Total Mass,$ / kg,$ / Device,Total Estimated Cost,,Link
-P11,Embossing Plate,"Cylindrical plate with raised braille dots; generated from text. PRIMARY: web-based customizer https://braille-card-and-cylinder-stl-gener.vercel.app . ALTERNATIVE (offline): vendored OpenSCAD copy in Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative/ . See also Examples folder for pre-generated plates.",PLA or PETG,Any,Any,1,TBD,TBD,$25.00,TBD,TBD,,https://braille-card-and-cylinder-stl-gener.vercel.app
-P12,Universal Counter Plate,"Cylindrical plate with matching cavities; matched to card-stock thickness (0.3 or 0.4 mm). Generated from the same customizer as P11.",PLA or PETG,Any,Any,1,TBD,TBD,$25.00,TBD,TBD,,https://braille-card-and-cylinder-stl-gener.vercel.app
+P11,Embossing Plate,"Cylindrical plate with raised braille dots; generated from text. PRIMARY: web-based customizer https://braille-cylinder-stl-generator.vercel.app . ALTERNATIVE (offline): vendored OpenSCAD copy in Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative/ . See also Examples folder for pre-generated plates.",PLA or PETG,Any,Any,1,TBD,TBD,$25.00,TBD,TBD,,https://braille-cylinder-stl-generator.vercel.app
+P12,Universal Counter Plate,"Cylindrical plate with matching cavities; matched to card-stock thickness (0.3 or 0.4 mm). Generated from the same customizer as P11.",PLA or PETG,Any,Any,1,TBD,TBD,$25.00,TBD,TBD,,https://braille-cylinder-stl-generator.vercel.app
 ,,,,,,,,,,,,,
 ,Custom PCB,,,,,,,,,$0.00,$0.00,,
 ,Part,Description,,Manufacturer,Supplier,QTY / Device,QTY / PKG,PKGs,$ / PKG,$ / Device,Total Estimated Cost,,Link

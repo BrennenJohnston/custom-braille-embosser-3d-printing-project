@@ -41,7 +41,7 @@ Project links:
 
 - Main GitHub repository (this project): https://github.com/BrennenJohnston/custom-braille-embosser-3d-printing-project
 - Web-based braille customizer (no install, runs in your browser):
-- App: https://braille-card-and-cylinder-stl-gener.vercel.app
+- App: https://braille-cylinder-stl-generator.vercel.app
 - Source: https://github.com/BrennenJohnston/braille-cylinder-stl-generator
 - Offline OpenSCAD alternative customizer (for anyone not wanting to, or not able to, use the browser-based tool):
 - Source: https://github.com/BrennenJohnston/braille-cylinder-stl-generator-openscad

@@ -28,7 +28,7 @@ MakerWorld link: https://makerworld.com/en/models/2881581-custom-braille-card-em
 
 Printables link: https://www.printables.com/model/1742352-custom-braille-embosser-a-hand-operated-3d-printab
 
-Web-based braille customizer: https://braille-card-and-cylinder-stl-gener.vercel.app
+Web-based braille customizer: https://braille-cylinder-stl-generator.vercel.app
 
 I also made a 3 part video tutorial series covering the customizer, assembly, and usage if anyone wants to see it in action: https://youtu.be/77iXvJbkXh4?si=iJg1fes9QeOHQ45X
 
